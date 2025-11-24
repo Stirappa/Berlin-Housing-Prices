@@ -21,8 +21,7 @@ This repository is ideal for anyone learning:
 ```
 ├── Berlin Housing Prices.ipynb     # Main notebook
 ├── README.md                       # Project documentation
-├── requirements.txt                # Python dependencies
-├── .gitignore                      # Ignore unnecessary files
+├── LICENSE
 └── real_estate_listings_clean.csv  
 ```
 
